@@ -15,7 +15,7 @@ Documentation & Examples
 For creating a classification model, we first need a training set. A file that contains documents and their labels. Training data should be prepared FastText style. For example, a training set that contains paragraphs and their emotions.
 
 __label__sadness Ah bu ülkenin hali beni çok üzüyor.
-__label__happy Galatasaray bu sene yine şampiyon.    
+__label__happy Beşiktaş bu sene yine şampiyon.    
 __label__fear Bu sınavın sonucu beni çok korkutuyor. 
 
 Each line must contain a document and its label(s). A document can be a sentence, or a paragraph. Algorithm should work with a page long document but performance may be lower than expected. A label must have a "__label__" prefix.
