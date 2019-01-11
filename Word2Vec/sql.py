@@ -5,10 +5,10 @@ from sqlalchemy.engine.url import URL
 def init_db():
     connect_url = URL(
             'mysql+pymysql',
-            username='masterhuzun',
-            password='123456789Ai!',
-            host="huzuninstance.chezocpbjx4z.eu-central-1.rds.amazonaws.com",
-            database='masterhuzun')
+            username='-',
+            password='-',
+            host="-",
+            database='-')
             
     engine = create_engine(connect_url)
     return engine
