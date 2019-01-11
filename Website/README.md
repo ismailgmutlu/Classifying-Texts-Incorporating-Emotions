@@ -1,3 +1,12 @@
+Classifying Texts Incorporating Emotions
+====================================================
+
+Text Classification
+Copyright (c) 2018, Koc University and/or its affiliates. All rights reserved.
+
+Documentation & Examples
+========================
+
 Project Website 
 
 www.huzun.biz - Main Page for crowdsourcing data (index.php)
